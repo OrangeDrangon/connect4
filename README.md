@@ -1,1 +1,2 @@
-# connect4
+# Connect 4
+A simple connect 4 java applet.
